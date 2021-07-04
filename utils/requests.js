@@ -19,6 +19,7 @@ const request_horoscopo = (data) => {
     }
 }
 
+
 const request_geolocation= (place) => {
     return {
         url: url_geolocation,
